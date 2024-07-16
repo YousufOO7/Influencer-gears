@@ -155,9 +155,6 @@ body{
 
 /* Media query style for mobile */
 @media screen and (max-width: 576px) {
-    body{
-        background-color: aquamarine;
-    }
     .banner-container, .popular-collection{
         width: 100%;
         height: 750px
